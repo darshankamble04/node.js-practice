@@ -57,7 +57,6 @@ console.log(os.platform());
 
 const path = require("path");
 
-console.log(path.basename("C:\Users\Darshan S\OneDrive\Documents\GitHub\node.js-practice-\js\practice_1.js"));
-console.log(path.dirname("C:\Users\Darshan S\OneDrive\Documents\GitHub\node.js-practice-\js\practice_1.js"));
-console.log(path.join("C:\Users\Darshan S\OneDrive\Documents\GitHub\node.js-practice-\js\practice_1.js"))
-console.log(path.parse("C:\Users\Darshan S\OneDrive\Documents\GitHub\node.js-practice-\js\practice_1.js"));
+console.log(path.basename("C:\Users\Darshan S\OneDrive\Documents\GitHub\node.js-practice-\practice_1.js"));
+console.log(path.dirname("C:\Users\Darshan S\OneDrive\Documents\GitHub\node.js-practice-\practice_1.js"));
+console.log(path.parse("C:\Users\Darshan S\OneDrive\Documents\GitHub\node.js-practice-\practice_1.js"));
